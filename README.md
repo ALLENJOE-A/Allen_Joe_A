@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ALLEN%20JOE%20A&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=VLSI%20Engineer%20%E2%80%A2%20Chip%20Designer%20%E2%80%A2%20RTL%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Semiconductor+Engineering+%7C+ASIC+Physical+Design;RTL+Design+%7C+FPGA+%7C+Verification;TCAD+Simulation+%7C+Embedded+Systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Semiconductor+Engineering+%7C+ASIC+Physical+Design;RTL+Design+%7C+Verification;TCAD+Simulation+%7C+Embedded+Systems" alt="Typing SVG" /></a>
 
 <!-- Animated Badges -->
 <p>
