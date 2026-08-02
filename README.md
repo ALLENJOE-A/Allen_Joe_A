@@ -148,7 +148,7 @@ endmodule
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 </p>
@@ -158,7 +158,6 @@ endmodule
 <p>
   <img src="https://img.shields.io/badge/Synopsys-7B2CBF?style=for-the-badge&logo=synopsys&logoColor=white" />
   <img src="https://img.shields.io/badge/Cadence-FF0000?style=for-the-badge&logo=cadence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" />
   <img src="https://img.shields.io/badge/ModelSim-0078D4?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/LTspice-8B0000?style=for-the-badge&logo=analog&logoColor=white" />
 </p>
@@ -167,7 +166,6 @@ endmodule
 
 <p>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARM_Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
 </p>
@@ -177,7 +175,6 @@ endmodule
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
@@ -385,7 +382,7 @@ endmodule
   <a href="https://github.com/ALLENJOE-A">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/allenjoe-a" target="_blank">
+  <a href="https://linkedin.com/in/allenjoe-a" target="[_blank](https://www.linkedin.com/in/allen-joe-a-36069831b/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:allenjoe.a2024@vitstudent.ac.in">
