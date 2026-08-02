@@ -96,13 +96,7 @@ endmodule
 - Simulation & Debugging
 - UVM (Learning)
 
-### 🔷 **FPGA Development**
-- FPGA Architecture
-- Xilinx Vivado / Intel Quartus
-- Timing Constraints
-- IP Core Integration
-- Hardware Debugging
-- FPGA Prototyping
+
 
 </td>
 <td width="50%" valign="top">
