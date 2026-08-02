@@ -64,7 +64,7 @@ endmodule
 
 <div align="center">
 
-### **ASIC Design Flow**
+### **VLSI Design Flow**
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
