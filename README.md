@@ -40,8 +40,8 @@ module allen_joe_engineer;
   
   always @(*) begin
     // Combining hardware expertise with software innovation
-    innovation = asic_design & rtl_design & verification;
-    passion = semiconductor_modeling | embedded_systems;
+    innovation = asic_design & rtl_design & full_custom_design;
+    passion = semiconductor_modeling;
   end
   
 endmodule
