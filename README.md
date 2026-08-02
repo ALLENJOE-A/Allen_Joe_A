@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/VLSI-Design-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNXptMCA0TDYgOWw2IDMgNi0zeiIvPjwvc3ZnPg==&logoColor=white" />
   <img src="https://img.shields.io/badge/RTL-Development-00D9FF?style=for-the-badge&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/ASIC-Physical_Design-FF6B6B?style=for-the-badge&logo=chip&logoColor=white" />
-  <img src="https://img.shields.io/badge/FPGA-Development-4ECDC4?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semiconductor-Development-4ECDC4?style=for-the-badge&logo=xilinx&logoColor=white" />
 </p>
 
 <!-- Visitor Counter -->
