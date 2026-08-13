@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated Header with Circuit Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ALLEN%20JOE%20A&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=VLSI%20Engineer%20%E2%80%A2%20Chip%20Designer%20%E2%80%A2%20RTL%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ALLEN%20JOE%20A&fontSize=50&fontColor=fff&animation=twinkling&fontA[...]
 
 <!-- Typing Animation Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Semiconductor+Engineering+%7C+ASIC+Physical+Design;RTL+Design+%7C+Verification;TCAD+Simulation+%7C+Embedded+Systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&[...]" /></a>
 
 <!-- Animated Badges -->
 <p>
-  <img src="https://img.shields.io/badge/VLSI-Design-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNXptMCA0TDYgOWw2IDMgNi0zeiIvPjwvc3ZnPg==&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLSI-Design-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+P[...]
   <img src="https://img.shields.io/badge/RTL-Development-00D9FF?style=for-the-badge&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/ASIC-Physical_Design-FF6B6B?style=for-the-badge&logo=chip&logoColor=white" />
   <img src="https://img.shields.io/badge/Semiconductor-Development-4ECDC4?style=for-the-badge&logo=xilinx&logoColor=white" />
@@ -47,7 +47,7 @@ module allen_joe_engineer;
 endmodule
 ```
 
-🎯 I'm a **Semiconductor & VLSI Engineering Student** passionate about chip design, RTL development, and embedded systems. My work bridges the gap between **hardware architecture** and **practical implementation**, focusing on creating efficient, optimized digital systems.
+🎯 I'm a **Semiconductor & VLSI Engineering Student** passionate about chip design, RTL development, and embedded systems. My work bridges the gap between **hardware architecture** and **practic[...]
 
 **🔬 Current Focus:**
 - 🔹 ASIC Physical Design & Timing Analysis
@@ -67,11 +67,11 @@ endmodule
 ### **VLSI Design Flow**
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────�[...]
 │  Specification → RTL Design → Synthesis → Physical Design → Sign-off        │
 │       ↓              ↓            ↓             ↓               ↓            │
 │   Requirements   Verilog/SV   Logic Opt    Place&Route      Tapeout        │
-└─────────────────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────�[...]
 ```
 
 </div>
@@ -140,7 +140,7 @@ endmodule
 
 <p>
   <img src="https://img.shields.io/badge/Verilog-E34F26?style=for-the-badge&logo=v&logoColor=white" />
-  <img src="https://img.shields.io/badge/SystemVerilog-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNXptMCA0TDYgOWw2IDMgNi0zeiIvPjwvc3ZnPg==&logoColor=white" />
+  <img src="https://img.shields.io/badge/SystemVerilog-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PH[...]
   <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=vhdl&logoColor=white" />
 </p>
 
@@ -194,7 +194,7 @@ endmodule
 ### 🔬 **DG-Source-Pocket-Engineered-Vertical-TFET**
 
 <a href="https://github.com/ALLENJOE-A/DG-Source-Pocket-Engineered-Vertical-TFET">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALLENJOE-A&repo=DG-Source-Pocket-Engineered-Vertical-TFET&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALLENJOE-A&repo=DG-Source-Pocket-Engineered-Vertical-TFET&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF[...]" />
 </a>
 
 **Advanced semiconductor device simulation project**
@@ -215,7 +215,7 @@ endmodule
 ### 📟 **Digital Oscilloscope STM32**
 
 <a href="https://github.com/ALLENJOE-A/Digital-Oscilloscope-STM32">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALLENJOE-A&repo=Digital-Oscilloscope-STM32&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALLENJOE-A&repo=Digital-Oscilloscope-STM32&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D[...]" />
 </a>
 
 **Portable real-time waveform acquisition system**
@@ -279,10 +279,10 @@ endmodule
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ALLENJOE-A&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ALLENJOE-A&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_co[...]" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ALLENJOE-A&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALLENJOE-A&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALLENJOE-A&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFF[...]" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ALLENJOE-A&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 
 <!-- GitHub Trophies -->
@@ -354,12 +354,12 @@ endmodule
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────[...]
 │  🎓 VIT Chennai                                                      │
 │  📚 Electronics & VLSI Engineering                                   │
 │  🎯 Specialization: ASIC Design | RTL | Semiconductor Engineering   │
 │  📍 Chennai, India                                                   │
-└──────────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────[...]
 ```
 
 **Focus Areas:**
@@ -443,9 +443,33 @@ end
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Feel+free+to+explore+my+repositories;Let's+build+something+amazing+together!+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Feel+free+to+explore+my[...]" />
 </p>
 
 **⭐ From [ALLENJOE-A](https://github.com/ALLENJOE-A) with passion for VLSI & innovation ⭐**
 
 </div>
+
+
+---
+
+## New & Recent Work (Aug 2026)
+
+I've added short entries for projects created or updated recently on my GitHub. These are appended so existing content remains unchanged.
+
+- GNN-T — Edge Error Prediction for Computational Lithography
+  - https://github.com/ALLENJOE-A/GNN-T_Edge-Error-Prediction-for-Computational-Lithography
+  - Description: GNN-T Edge Error Prediction combines Graph Neural Networks and Transformer architectures to forecast Edge Placement Errors (EPE) in computational lithography.
+  - Tech/topics: Python, ai-coding, epe, lithography, opc, vlsi-cad
+
+- DG-Source Pocket-Engineered Vertical TFET (TCAD)
+  - https://github.com/ALLENJOE-A/DG-Source-Pocket-Engineered-Vertical-TFET
+  - Description: Simulation and optimization of a Pocket-Engineered Vertical TFET using Synopsys Sentaurus TCAD.
+  - Tech/topics: TCAD, transistor-modeling, semiconductor-engineering-and-vlsi-design
+
+- Digital Oscilloscope — STM32
+  - https://github.com/ALLENJOE-A/Digital-Oscilloscope-STM32
+  - Description: Portable digital oscilloscope using STM32F103C8T6 and ILI9341 TFT display for real-time waveform acquisition and visualization.
+  - Tech/topics: embedded-c, stm32, adc, dma, tft-display
+
+If you'd like, I can expand any project entry with screenshots, usage notes, build/run instructions, or add badges and topics.
